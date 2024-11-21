@@ -1,12 +1,43 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-11-18"
+title: "Welcome to My Academic Blog"
+subtitle: "Exploring the intersection of Neuroscience and Decision-Making"
+author: "choi.seong.bin."
+date: "2024-11-22"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Hello and welcome to my academic blog!
 
-![](thumbnail.jpg)
+[![from Unsplash by Alina Grubnyak](brain.jpg){fig-align="center"}](https://unsplash.com/photos/a-black-and-white-photo-of-a-brain-tEVGmMaPFXk)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+I'm thrilled to share this space where I can connect with you, whether you're a fellow researcher, a student, or simply someone curious about the fascinating world of neuroscience and decision-making. This blog marks the beginning of an exciting journey where I hope to demystify complex scientific ideas, share insights from my research, and spark conversations about the ever-evolving fields of cognitive neuroscience and psychology.
+
+### A Bit About Me
+
+I am a cognitive neuroscience researcher with a passion for understanding how the brain and body work together to shape our decisions. My work focuses on interoceptive processing — how the brain perceives signals from the body, like a heartbeat — and its role in moral decision-making. Specifically, I study how these signals influence the choices we make when faced with ethical dilemmas, such as whether to prioritize personal relationships or the greater good.
+
+Using advanced neuroimaging tools like EEG (electroencephalography) and ECG (electrocardiography), I investigate the neural mechanisms behind utilitarian and deontological decisions. My findings not only shed light on the inner workings of the human mind but also open doors to exciting interdisciplinary applications, such as using neuroscience to guide the development of ethical AI systems and human-robot interactions.
+
+### Why Start This Blog?
+
+Over the years, I’ve realized that science doesn’t exist in a vacuum — it thrives when it’s shared, discussed, and applied to real-world problems. That’s why I’ve created this blog: to make neuroscience and decision-making research accessible to everyone. Here, I’ll be exploring topics like:
+
+```         
+•   How interoception influences our cognitions. 
+•   Insights into the exciting intersection of neuroscience, AI, and other fields.
+•   Behind-the-scenes stories of my research journey.
+```
+
+I’ll also use this space to share thoughts on new discoveries, reflections on my academic journey, and tips for those navigating their own research paths.
+
+### What’s Coming Next?
+
+In my upcoming posts, I’ll dive deeper into the science behind my research. I’ll explain how interoception shapes the way we see the world and make decisions, why understanding it matters for AI ethics, and how this knowledge can inform real-world applications like healthcare or even designing more ethical robots.
+
+If you’ve ever wondered how your heartbeat influences your mind, how neuroscience could make AI more human, or what it’s like to work in a lab that studies decision-making, you’re in the right place.
+
+### Join the Conversation
+
+I’d love to hear from you! Whether you have questions about my research, suggestions for future topics, or your own thoughts on the fascinating interplay between the brain, body, and decisions, feel free to reach out. You can connect with me on my [X](https://x.com/1230Shengbin).
+
+Thank you for stopping by, and I hope you’ll join me as we explore the exciting world of neuroscience and decision-making together!

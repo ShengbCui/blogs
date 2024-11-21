@@ -9,22 +9,15 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome to My Academic Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello and welcome to my academic blog!\n\n\n\n\n\n\n\nfrom Unsplash by Alina Grubnyak\n\n\nI’m thrilled to share this space where I can connect with you, whether you’re a fellow researcher, a student, or simply someone curious about the fascinating world of neuroscience and decision-making. This blog marks the beginning of an exciting journey where I hope to demystify complex scientific ideas, share insights from my research, and spark conversations about the ever-evolving fields of cognitive neuroscience and psychology.\n\nA Bit About Me\nI am a cognitive neuroscience researcher with a passion for understanding how the brain and body work together to shape our decisions. My work focuses on interoceptive processing — how the brain perceives signals from the body, like a heartbeat — and its role in moral decision-making. Specifically, I study how these signals influence the choices we make when faced with ethical dilemmas, such as whether to prioritize personal relationships or the greater good.\nUsing advanced neuroimaging tools like EEG (electroencephalography) and ECG (electrocardiography), I investigate the neural mechanisms behind utilitarian and deontological decisions. My findings not only shed light on the inner workings of the human mind but also open doors to exciting interdisciplinary applications, such as using neuroscience to guide the development of ethical AI systems and human-robot interactions.\n\n\nWhy Start This Blog?\nOver the years, I’ve realized that science doesn’t exist in a vacuum — it thrives when it’s shared, discussed, and applied to real-world problems. That’s why I’ve created this blog: to make neuroscience and decision-making research accessible to everyone. Here, I’ll be exploring topics like:\n•   How interoception influences our cognitions. \n•   Insights into the exciting intersection of neuroscience, AI, and other fields.\n•   Behind-the-scenes stories of my research journey.\nI’ll also use this space to share thoughts on new discoveries, reflections on my academic journey, and tips for those navigating their own research paths.\n\n\nWhat’s Coming Next?\nIn my upcoming posts, I’ll dive deeper into the science behind my research. I’ll explain how interoception shapes the way we see the world and make decisions, why understanding it matters for AI ethics, and how this knowledge can inform real-world applications like healthcare or even designing more ethical robots.\nIf you’ve ever wondered how your heartbeat influences your mind, how neuroscience could make AI more human, or what it’s like to work in a lab that studies decision-making, you’re in the right place.\n\n\nJoin the Conversation\nI’d love to hear from you! Whether you have questions about my research, suggestions for future topics, or your own thoughts on the fascinating interplay between the brain, body, and decisions, feel free to reach out. You can connect with me on my X.\nThank you for stopping by, and I hope you’ll join me as we explore the exciting world of neuroscience and decision-making together!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "blog",
+    "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 21, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to My Academic Blog\n\n\nExploring the intersection of Neuroscience and Decision-Making\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 22, 2024\n\n\nchoi.seong.bin.\n\n\n\n\n\n\nNo matching items"
   }
 ]

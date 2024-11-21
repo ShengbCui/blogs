@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: ebebc460-9447-498f-9ff6-0e1fdae629c8
+      url: https://choi.quarto.pub/choiseongbin
+    - id: 6cca5e7e-afd0-407c-b6ba-8f96988f68c5
+      url: https://choi.quarto.pub/blogs

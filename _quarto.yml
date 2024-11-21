@@ -2,14 +2,21 @@ project:
   type: website
 
 website:
-  title: "blog"
+  title: "choi.seong.bin."
   navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+    left:
+      - text: Home 
+        href: https://shengbcui.github.io/
+      - text: About 
+        href: https://shengbcui.github.io/#about 
+      - text: Research 
+        href: https://shengbcui.github.io/#research
+      - text: Publications
+        href: https://shengbcui.github.io/#pubs 
+      - text: Music
+        href: https://shengbcui.github.io/#music
+      - text: Contact 
+        href: https://shengbcui.github.io/#contact
 format:
   html:
     theme: cosmo
