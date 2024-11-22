@@ -1,0 +1,62 @@
+---
+title: "What is Interoception?"
+subtitle: "Understanding the Brain's Hidden Sense"
+author: "choi seongbin."
+date: "2024-11-23"
+categories: [science]
+---
+
+When we think about our senses that shape our experience of the world, the usual candidates come to mind: vision, hearing, taste, touch, and smell. These senses provide us with a constant stream of information about our external environment, helping us navigate and interact with the world around us. But there’s another sense — one that operates quietly in the background, often unnoticed yet deeply influential. This sense is called **interoception**, and it’s the brain’s way of perceiving signals from within the body.
+
+### The Basics of Interoception
+
+Interoception is the reason you know your heart is racing before a big presentation or feel your stomach churn with nervousness. It’s the mechanism that lets your brain monitor and interpret bodily signals, like the rhythm of your heartbeat, the fullness of your stomach, or even subtle changes in your breathing. Though we rarely pay conscious attention to it, interoception plays a fundamental role in shaping our emotions, guiding our decisions, and maintaining our overall health.
+
+At its core, interoception is the brain’s way of staying in tune with the body. It allows us to sense what’s happening inside and adjust our actions accordingly. Imagine, for instance, the sensation of thirst. Without interoception, you might not recognize that your body needs water. Similarly, the tightness in your chest during a stressful moment is an interoceptive signal that helps you identify and respond to your emotional state.
+
+### How Does Interoception Work?
+
+Understanding how interoception works requires diving into the complex interplay between the body and the brain. Specialized sensory receptors throughout the body detect changes in internal states, such as a full stomach or fluctuating blood pressure. These signals travel to the brain, where areas like the **insular cortex** — often referred to as the hub of interoception — integrate them and help translate these sensations into feelings. This process allows you to interpret a rapid heartbeat as excitement, fear, or perhaps even love, depending on the context.
+
+### Why Does Interoception Matter?
+
+#### 1. Emotional Regulation
+
+Interoception is deeply intertwined with your emotions. For example, an increased heart rate might signal fear or excitement, depending on the context. The ability to accurately interpret these signals can help you regulate emotions more effectively.
+
+#### 2. Decision-Making
+
+Interoception doesn't just influence how you feel – it shapes how you act. Studies show that people with stronger interoceptive abilities may make more confident decisions, as they are better attuned to their bodily states during uncertainty.
+
+#### 3. Health and Well-Being
+
+Poor interoception has been linked to conditions like anxiety, depression, and eating disorders. Understanding interoception better could lead to improved treatments for these conditions.
+
+### How Do We Study Interoception?
+
+There are a variety of tools to explore interoception, including:
+
+-   **Heartbeat Detection Tasks**: Participants are asked to count their heartbeats without feeling their pulse to test how well they sense internal signals.
+
+-   **EEG and ECG**: These tools measure brain and heart activity, helping researchers examine the neural basis of interoception.
+
+-   **Behavioral Studies**: These investigate how interoception influences decision-making, emotional regulation, and even moral judgments.
+
+### Interoception and My Research
+
+In my work, I explore how interoception shapes moral decision-making. For example, when people face ethical dilemmas, their heartbeat patterns and brain activity may influence whether they make utilitarian (outcome-focused) or deontological (rule-focused) decisions. By studying these processes, we can gain new insights into how body-brain connections shape our social and ethical behavior.
+
+### The Future of Interoception Research 
+
+The implications of interoception research extend far beyond neuroscience labs. By understanding how the brain processes internal signals, we can develop better treatments for mental health disorders, design wearable devices that enhance interoceptive awareness, and even inform the creation of AI systems capable of making ethical decisions inspired by human physiology.
+
+Interoception may not receive the same attention as sight or sound, but it is an integral part of our vivid experience. It bridges the gap between our physical and emotional worlds, influencing everything from the choices we make to the way we perceive ourselves. In the coming posts, I’ll delve deeper into how interoception shapes our trust in others, the ethical decisions we face, and the potential it holds for advancing both neuroscience and technology. For now, I invite you to reflect on the quiet dialogue happening within your body — a conversation that’s shaping your life in ways you might not yet realize.
+
+### What to Learn More? 
+
+Feel free to connect with me on [X](https://x.com/1230Shengbin) or explore my other posts for more insights into the fascinating world of neuroscience and decision-making.
+
+### References for Further Reading 
+
+1.  Craig, A. D. (2002). How do you feel? Interoception: the sense of the physiological condition of the body. Nature Reviews Neuroscience, 3, 655-666.
+2.  Engelen, T., Solcà, M., & Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. Nature Neuroscience, 26, 1670-1684.

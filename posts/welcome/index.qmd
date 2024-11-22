@@ -1,14 +1,14 @@
 ---
 title: "Welcome to My Academic Blog"
 subtitle: "Exploring the intersection of Neuroscience and Decision-Making"
-author: "choi.seong.bin."
+author: "choi seongbin."
 date: "2024-11-22"
 categories: [news]
 ---
 
 Hello and welcome to my academic blog!
 
-[![from Unsplash by Alina Grubnyak](brain.jpg){fig-align="center" width="200"}](https://unsplash.com/photos/a-black-and-white-photo-of-a-brain-tEVGmMaPFXk)
+[![from Unsplash by Alina Grubnyak](brain.jpg){fig-align="center" width="400"}](https://unsplash.com/photos/a-black-and-white-photo-of-a-brain-tEVGmMaPFXk)
 
 I'm thrilled to share this space where I can connect with you, whether you're a fellow researcher, a student, or simply someone curious about the fascinating world of neuroscience and decision-making. This blog marks the beginning of an exciting journey where I hope to demystify complex scientific ideas, share insights from my research, and spark conversations about the ever-evolving fields of cognitive neuroscience and psychology.
 

@@ -2,8 +2,9 @@ project:
   type: website
 
 website:
-  title: "choi.seong.bin."
+  title: "choi seongbin."
   navbar:
+    background: rgb(255,255,255) 
     left:
       - text: Home 
         href: https://shengbcui.github.io/
