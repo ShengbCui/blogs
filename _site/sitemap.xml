@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://6cca5e7e-afd0-407c-b6ba-8f96988f68c5.netlify.app/about.html</loc>
+    <loc>https://choi.quarto.pub/blogs/about.html</loc>
     <lastmod>2024-11-21T15:53:30.776Z</lastmod>
   </url>
   <url>
-    <loc>https://6cca5e7e-afd0-407c-b6ba-8f96988f68c5.netlify.app/posts/welcome/index.html</loc>
-    <lastmod>2024-11-21T16:14:24.688Z</lastmod>
+    <loc>https://choi.quarto.pub/blogs/posts/welcome/index.html</loc>
+    <lastmod>2024-11-21T17:10:14.158Z</lastmod>
   </url>
   <url>
-    <loc>https://6cca5e7e-afd0-407c-b6ba-8f96988f68c5.netlify.app/index.html</loc>
+    <loc>https://choi.quarto.pub/blogs/index.html</loc>
     <lastmod>2024-11-21T15:52:55.829Z</lastmod>
   </url>
 </urlset>

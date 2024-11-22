@@ -1,1 +1,1 @@
-Sitemap: https://6cca5e7e-afd0-407c-b6ba-8f96988f68c5.netlify.app/sitemap.xml
+Sitemap: https://choi.quarto.pub/blogs/sitemap.xml
