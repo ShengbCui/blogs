@@ -46,17 +46,17 @@ There are a variety of tools to explore interoception, including:
 
 In my work, I explore how interoception shapes moral decision-making. For example, when people face ethical dilemmas, their heartbeat patterns and brain activity may influence whether they make utilitarian (outcome-focused) or deontological (rule-focused) decisions. By studying these processes, we can gain new insights into how body-brain connections shape our social and ethical behavior.
 
-### The Future of Interoception Research 
+### The Future of Interoception Research
 
 The implications of interoception research extend far beyond neuroscience labs. By understanding how the brain processes internal signals, we can develop better treatments for mental health disorders, design wearable devices that enhance interoceptive awareness, and even inform the creation of AI systems capable of making ethical decisions inspired by human physiology.
 
 Interoception may not receive the same attention as sight or sound, but it is an integral part of our vivid experience. It bridges the gap between our physical and emotional worlds, influencing everything from the choices we make to the way we perceive ourselves. In the coming posts, I’ll delve deeper into how interoception shapes our trust in others, the ethical decisions we face, and the potential it holds for advancing both neuroscience and technology. For now, I invite you to reflect on the quiet dialogue happening within your body — a conversation that’s shaping your life in ways you might not yet realize.
 
-### What to Learn More? 
+### What to Learn More?
 
 Feel free to connect with me on [X](https://x.com/1230Shengbin) or explore my other posts for more insights into the fascinating world of neuroscience and decision-making.
 
-### References for Further Reading 
+### References for Further Reading
 
 1.  Craig, A. D. (2002). How do you feel? Interoception: the sense of the physiological condition of the body. Nature Reviews Neuroscience, 3, 655-666.
 2.  Engelen, T., Solcà, M., & Tallon-Baudry, C. (2023). Interoceptive rhythms in the brain. Nature Neuroscience, 26, 1670-1684.
